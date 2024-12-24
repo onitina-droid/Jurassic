@@ -31,6 +31,9 @@ Et plus encore selon les besoins du projet !
 # 🤝 Contribution
 Les contributions sont les bienvenues ! Suivez ces étapes :
 
+# Prends ton temps pour le voir : 
+https://jurassicparc.netlify.app/
+
 # Forkez le projet.
 Créez une branche pour votre fonctionnalité :
 bash

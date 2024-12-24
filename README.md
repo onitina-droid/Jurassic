@@ -20,12 +20,12 @@ Ouvrez le fichier index.html dans votre navigateur pour explorer le site.
 
 # 🖼️ Aperçu
 Voici une capture d'écran du site :
-![capturehome](Jurassic/assests/images/capturehome.png)
+![capturehome](capturehome.png)
 
 # 🛠️ Technologies utilisées
-# HTML5
-# CSS3
-# JavaScript
+## HTML5
+## CSS3
+## JavaScript
 
 Et plus encore selon les besoins du projet !
 # 🤝 Contribution
